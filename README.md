@@ -1,6 +1,9 @@
 # bounce_jump
 A doodle jump-like game that uses a "pounce" mechanic
 
+[Play!
+](https://fokaiastudio.itch.io/bounce-ball)
+
 Unity's rigid body and physics systems were used to create a simple platformer. The player points the mouse to where they want to pounce, and when the button is clicked the player character gets an impulse and flies off in that direction. Below is the function that calculates this force:
 
 
